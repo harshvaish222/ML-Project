@@ -1,2 +1,2 @@
 # ML-Project
-Heart Disease Prediction System
+Heart Disease and Diabetes Prediction System
